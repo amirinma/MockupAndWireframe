@@ -1,0 +1,17 @@
+#main-div_div1{
+  background-color: #e5e4e4;
+  display: flex;
+
+  margin: 10px;
+  padding: 20px;
+}
+#main-div_div2{
+  background-color: #e7e6e6;
+  display: flex;
+
+  margin: 10px;
+  padding: 20px;
+}
+body{
+  width: 98%;
+}
